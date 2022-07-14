@@ -1,2 +1,2 @@
-# proyecto-ETL
-ETL
+# proyecto_ETL
+Extract, transform and load
